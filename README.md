@@ -68,7 +68,7 @@ dotnet run
 
 
 
-Ardından tarayıcıda http://localhost:PORT/swagger adresini açarak API'yi test edebilirsiniz.
+Projeyi çalıştırdıktan sonra terminalde çıkan adresi (örneğin http://localhost:5123) tarayıcıda açıp sonuna /swagger ekleyin.
 
 
 
